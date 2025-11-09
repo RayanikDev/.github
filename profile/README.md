@@ -62,13 +62,13 @@ Our strength lies in our talented and dedicated team.
 | Name | Role | GitHub |
 | :--- | :--- | :--- |
 | **Mohammad Mehdi Yami** | CEO & Chairman | - |
-| **Shahriar Khatibi** | CTO & Vice Chairman | `[@[itsShKh]` |
+| **Shahriar Khatibi** | CTO & Vice Chairman | [@itsShKh](https://github.com/itsShKh) |
 | **Amirhossein Banivahab** | CFO | - |
 | **Sanaz Shamshiri** | Marketing Director | - |
 | | | |
-| **Hamed Nazeri** | Senior Frontend Developer | `[@hamed-nazeri]` |
-| **Amirhossein Ghavidel** | Senior Backend Developer | `[@Ami12-unavailable]` |
-| **Arman Monajemi** | Data Mining Specialist | `[@monajemi-arman]` |
+| **Hamed Nazeri** | Senior Frontend Developer | [@hamed-nazeri](https://github.com/hamed-nazeri) |
+| **Amirhossein Ghavidel** | Senior Backend Developer | [@Ami12-unavailable](https://github.com/Ami12-unavailable) |
+| **Arman Monajemi** | Data Mining Specialist | [@monajemi-arman](https://github.com/monajemi-arman) |
 | **Danial Mehrzad** | UX Specialist | - |
 
 ---
