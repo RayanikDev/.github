@@ -66,7 +66,7 @@ Our strength lies in our talented and dedicated team.
 | **Amirhossein Banivahab** | CFO | - |
 | **Sanaz Shamshiri** | Marketing Director | - |
 | | | |
-| **Hamed Nazeri** | Senior Frontend Developer | [@hamed-nazeri](https://github.com/hamed-nazeri) |
+| **Hamed Nazeri** | Senior Frontend Developer | [@hamednazeri](https://github.com/hamednazeri) |
 | **Amirhossein Ghavidel** | Senior Backend Developer | [@Ami12-unavailable](https://github.com/Ami12-unavailable) |
 | **Arman Monajemi** | Data Mining Specialist | [@monajemi-arman](https://github.com/monajemi-arman) |
 | **Danial Mehrzad** | UX Specialist | - |
