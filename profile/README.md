@@ -4,7 +4,6 @@
 -->
 
 <div align="center">
-  <img src="[your-logo-url-here]" alt="Rayanik Logo" width="120"/>
   <h1>
     <b>Rayanik | رایانیک</b>
   </h1>
